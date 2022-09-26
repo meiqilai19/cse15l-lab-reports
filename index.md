@@ -21,7 +21,7 @@ __bolddddd__
 Horizontal Rule: 
 ----
 
-`code` exaple
+`code` example
 
 ```
 hi cse 12
