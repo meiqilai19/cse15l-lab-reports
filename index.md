@@ -13,7 +13,7 @@ Heading test 2
 > NEXT PAGE
 
 ![image class] 
-(happy.jpeg)
+([happy.jpeg](https://github.com/meiqilai19/cse15l-lab-reports/blob/main/happy.jpeg))
 
 *1
 *2
