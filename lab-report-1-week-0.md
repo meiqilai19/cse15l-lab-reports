@@ -1,3 +1,3 @@
-[Lab Report 1](lab-report-1-week-0.md)
+[index page](index.md)
 hi
 ![screenshot](happy.jpeg)
