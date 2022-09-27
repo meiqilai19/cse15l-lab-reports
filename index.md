@@ -4,19 +4,29 @@ hello worlddd
 _italic_
 __bolddddd__
 # testing 
+Heading test
+==========
 ## testing 2
+Heading test 2
+------
 [link](www.google.com)
-![imageeee](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechbeacon.com%2Fapp-dev-testing%2Ftest-automation-tools-8-trends-techniques-watch&psig=AOvVaw26lXN382UXaVJ5Qjithni7&ust=1664248428670000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIispNW-sfoCFQAAAAAdAAAAABAD)
-> blockckquoteee
+> NEXT PAGE
+
+![image class] 
+([happy.jpeg](https://github.com/meiqilai19/cse15l-lab-reports/blob/main/happy.jpeg))
 
 *1
 *2
+*3
 - 1 
 - 2
 1. uno
 2. dos
 3. tres
 
+1) hi 
+2) there
+3) world
 
 Horizontal Rule: 
 ----
