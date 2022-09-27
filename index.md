@@ -9,7 +9,7 @@ Heading test
 ## testing 2
 Heading test 2
 ------
-[link](www.google.com](https://github.com/meiqilai19/cse15l-lab-reports/blob/main/lab-report-1-week-0.md)
+([Lab Report 1](lab-report-1-week-0.html))
 > NEXT PAGE
 
 ![image class](happy.jpeg)
