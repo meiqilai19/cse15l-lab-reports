@@ -13,7 +13,7 @@ Heading test 2
 > NEXT PAGE
 
 ![image class] 
-(https://user-images.githubusercontent.com/111710803/192626458-d6968ea8-4ed0-4f30-b18c-b0884fe7ed13.png")
+(img width="924" alt="class schedule " src="https://user-images.githubusercontent.com/111710803/192627470-e7f360e9-ded7-4b08-8401-c3d8f79f77aa.png")
 
 *1
 *2
