@@ -1,2 +1,2 @@
 hi
-[screenshot]()
+![screenshot](happy.jpeg)
