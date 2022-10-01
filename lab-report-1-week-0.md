@@ -1,4 +1,6 @@
-# Topic: Remote Access
+# Topic: Remote Access 
+## Lab Report 1
+### Completed by: Meiqi Lai
 
 1) **Installing VSCode**
 ![image class](1.png)
