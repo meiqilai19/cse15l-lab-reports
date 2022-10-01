@@ -26,4 +26,5 @@ Moving files with scp means to make a copy of a file from a computer to the remo
 Setting an SSH Key is helpful becasue every time you open the server, you would have to retype in one's password. The whole point of ssh-keygen is to create a pair of files which are referred to as public key and private key. The public key would then be copied to a certain location on the server. As for the private key, it is also stored in a place on the clients computer. 
 
 6) **Optimize Remote Running**
-
+![image class](6.png)
+To optimize remote running, it means to make your life easier by combining multiple lines of code into one single line, separated by semicolons. This command would copy the WhatAmI file to the directory of the server and then go into the server and display the currenty directory(function of pwd)
