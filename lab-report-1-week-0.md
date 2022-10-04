@@ -3,7 +3,7 @@
 ### Completed by: Meiqi Lai
 
 1) **Installing VSCode**
-![image class](1.png)
+![image class](1.png)  
 
 First go to https://code.visualstudio.com/ and install it. Click on the button that is most appropriate (Mac or Windows).  When you open the application, it should read Visual Studio Code, new file, open, or clone git repository. In my case, I already had a file open which is why the screenshot looks like that. 
 
