@@ -50,7 +50,50 @@ The code above will display that specific message on the site. What this else st
 ## None Found
 
 ![image class](none.png)
-In the picture displayed above, it reveals a statement that says "404 Not Found!". This statement is printed when none of the conditional statements (if, else if, else) are met.
+In the picture displayed above, it reveals a statement that says "404 Not Found!". This statement is printed when none of the conditional statements (if, else if, else) are met. When the values that are inputted after the original url do not match any of the ones that are in the conditional statements, then an error message will pop up. 
 
 
 ## Part2:
+
+Bug 1: (From ArrayTests.java)
+![image class](haha.png)
+Error was that when the lowest number were to be the same as the other numbers in the array, it would return 0 even though the array length was greater than 2. I added another if statement in the case that the number ==lowest, it would also have the condition to check if the array length is greater than 2. If so, the number would be added to the sum. In the end, I would subtract the lowest from the sum. There is this particular symptom for this particular input because the lowest number is the only numberical value in the array. 
+
+Fixed Bug1: 
+'  static double averageWithoutLowest(double[] arr) {
+    if(arr.length < 2) { return 0.0; }
+    double lowest = arr[0];
+    for(double num: arr) {
+      if(num < lowest) { lowest = num; }
+    }
+    double sum = 0;
+    for(double num: arr) {
+      if(num!=lowest) { sum += num; }
+      if(num==lowest && arr.length>2) { 
+        sum += num; 
+      }
+    }
+    sum-=lowest;
+    return sum / (arr.length - 1);
+  }'
+
+  Bug 2: (From ListTests.java)
+  ![image class](bug2.png)
+  The strings that are being checked are not being added to the arrayList in the correct order They are being added to the beginning if the boolean comes out to be true. In addition to that, The symptom is shown in the image displayed below. This error would happen to all different types of strings being added to the string arraylist simply because the code that is placing the items in order is wrong. In addition to that, the while loop forces there to be an infinite loop. Normally, one's loop would stop or end right when the index is larger than the list. However, the list and index both increase simultaneously. 
+    ![image class](lo.png)
+
+Fixed bug:
+'  static List<String> filter(List<String> list, StringChecker sc) {
+    List<String> result = new ArrayList<>();
+    int num=0;
+    for(String s: list){
+      if (sc.checkString(s)){
+        result.add(num,s);
+        num++;
+      }
+    }
+    return result;
+  }'
+
+
+
