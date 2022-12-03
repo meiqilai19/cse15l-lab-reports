@@ -24,7 +24,7 @@ This screenshot shows how by putting the vim D + tab function into place, you wo
 Using the /start command would search for "start" in the file
 ![Image class](4/5.png)
 
-7) `ce`
+7) `ce`    
 Using ce puts you into insert mode
 ![Image class](4/8.png)
 
