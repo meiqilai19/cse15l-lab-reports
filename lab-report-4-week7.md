@@ -13,7 +13,7 @@ For part 1, I decided to do the first bulletpoint:
 2) `vim D`
 ![Image class](4/2.png)
 
-3) '<TAB<TABB>>'
+3) `Tab`
 ![Image class](4/3.png)
 
 4) `Return`
