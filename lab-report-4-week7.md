@@ -10,39 +10,39 @@ For part 1, I decided to do the first bulletpoint:
 1) Make sure you are in the correct directory in which you git cloned the files to. In the picture below, it is cloned to week6-skill-demo1
 ![Image class](4/1.png)
 
-2) vim D
+2) `vim D`
 ![Image class](4/2.png)
 
-3) <TAB<TABB>>
+3) '<TAB<TABB>>'
 ![Image class](4/3.png)
 
-4) <Return<etur>>
+4) `Return`
 This screenshot shows how by putting the vim D + tab function into place, you would save yourself time from typing the long file name.
 ![Image class](4/4.png)
 
-5) /start
+5) `/start`
 Using the /start command would search for "start" in the file
 ![Image class](4/5.png)
 
-7) ce
+7) `ce`
 Using ce puts you into insert mode
 ![Image class](4/8.png)
 
-8) base <<esc>esc>
+8) `base esc`
 Typing base changes the start word to base
 ![Image class](4/9.png)
 
-10) n. 
+10)` n. `
 Repeats the same command but for another "start" word that is found in the file
 
-11) n.
+11) `n.`
 This screenshot shows that all the "starts" have been changed to base
 ![Image class](4/10.png)
 
-12) :wq
+12) `:wq`
 ![Image class](4/13.png)
 
-13)<<Return<etur>>
+13)`Return`
 This screenshot puts the :wq command into place and returns to the terminal mode. 
 ![Image class](4/14.png) 
 
